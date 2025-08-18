@@ -27,7 +27,7 @@ I am largely self-taught and focus on combining structured learning with practic
 - AI/ML prototypes for practical applications 🤖  
 
 ## Contact
-- ✉️ Email: [Your Email Here]  
-- 🔗 LinkedIn: [Your LinkedIn URL]  
-- 💻 GitHub: [Your GitHub URL]  
+- ✉️ Email: Jamil.i.James1@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jamiljames/ 
+- 💻 GitHub:  https://github.com/JamilJames910
 
